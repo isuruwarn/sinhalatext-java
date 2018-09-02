@@ -20,13 +20,13 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
+			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
 	
 	<build>
-		<finalName>Sinhala Text Editor</finalName>
+		<finalName>SinhalaTextEditor</finalName>
 		<resources>
 			<resource>
 				<directory>src/main/resources/img</directory>
@@ -44,9 +44,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<!--addClasspath>true</addClasspath>
-							<classpathPrefix>${project.build.directory}/img</classpathPrefix-->
-							<mainClass>org.warn.sinhala.texteditor.ui.TextEditor</mainClass>
+							<mainClass>org.warn.sinhalatext.ui.TextEditor</mainClass>
 						</manifest>
 						<!--manifestEntries>
 							<Class-Path>img/</Class-Path>
