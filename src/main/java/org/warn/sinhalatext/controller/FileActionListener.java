@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import java.awt.Dimension;
 import java.awt.Font;
@@ -9,12 +9,12 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JTextPane;
 
-import org.warn.sinhala.texteditor.exceptions.OpenFileException;
-import org.warn.sinhala.texteditor.exceptions.SaveFileException;
-import org.warn.sinhala.texteditor.model.FileHandler;
-import org.warn.sinhala.texteditor.model.PrintableHandler;
-import org.warn.sinhala.texteditor.ui.Container;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.exceptions.OpenFileException;
+import org.warn.sinhalatext.exceptions.SaveFileException;
+import org.warn.sinhalatext.model.FileHandler;
+import org.warn.sinhalatext.model.PrintableHandler;
+import org.warn.sinhalatext.ui.Container;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

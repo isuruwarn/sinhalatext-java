@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.warn</groupId>
-	<artifactId>sinhala-texteditor-java</artifactId>
+	<artifactId>sinhala-text</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>sinhala-texteditor-java</name>
+	<name>sinhala-text</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

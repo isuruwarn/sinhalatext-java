@@ -1,9 +1,9 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -6,8 +6,8 @@ import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-import org.warn.sinhala.texteditor.ui.components.EditorHelpDialog;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.ui.components.EditorHelpDialog;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 public class HelpActionListener implements ActionListener {
 	

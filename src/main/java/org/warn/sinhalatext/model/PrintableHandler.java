@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.model;
+package org.warn.sinhalatext.model;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

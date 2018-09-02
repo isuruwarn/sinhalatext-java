@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.ui.components;
+package org.warn.sinhalatext.ui.components;
 
 import java.awt.Insets;
 import java.awt.event.ActionListener;

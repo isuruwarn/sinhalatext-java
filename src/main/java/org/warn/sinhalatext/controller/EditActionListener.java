@@ -1,12 +1,12 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JTextPane;
 
-import org.warn.sinhala.texteditor.model.TextHandler;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.model.TextHandler;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

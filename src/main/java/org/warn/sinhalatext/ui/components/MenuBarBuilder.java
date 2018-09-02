@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.ui.components;
+package org.warn.sinhalatext.ui.components;
 
 import java.awt.Color;
 import java.awt.Component;
@@ -14,12 +14,12 @@ import javax.swing.JMenuItem;
 import javax.swing.KeyStroke;
 import javax.swing.text.StyledEditorKit;
 
-import org.warn.sinhala.texteditor.controller.EditActionListener;
-import org.warn.sinhala.texteditor.controller.FileActionListener;
-import org.warn.sinhala.texteditor.controller.FontSizeActionListener;
-import org.warn.sinhala.texteditor.controller.HelpActionListener;
-import org.warn.sinhala.texteditor.controller.UndoActionListener;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.controller.EditActionListener;
+import org.warn.sinhalatext.controller.FileActionListener;
+import org.warn.sinhalatext.controller.FontSizeActionListener;
+import org.warn.sinhalatext.controller.HelpActionListener;
+import org.warn.sinhalatext.controller.UndoActionListener;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.ui;
+package org.warn.sinhalatext.ui;
 
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;

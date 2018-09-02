@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
@@ -6,8 +6,8 @@ import java.awt.event.KeyListener;
 import javax.swing.ButtonGroup;
 import javax.swing.JTextPane;
 
-import org.warn.sinhala.texteditor.model.TextHandler;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.model.TextHandler;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.model;
+package org.warn.sinhalatext.model;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -13,9 +13,9 @@ import javax.swing.JFileChooser;
 import javax.swing.JTextPane;
 import javax.swing.filechooser.FileFilter;
 
-import org.warn.sinhala.texteditor.exceptions.OpenFileException;
-import org.warn.sinhala.texteditor.exceptions.SaveFileException;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.exceptions.OpenFileException;
+import org.warn.sinhalatext.exceptions.SaveFileException;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

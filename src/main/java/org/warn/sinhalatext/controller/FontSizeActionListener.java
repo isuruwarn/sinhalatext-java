@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -8,7 +8,7 @@ import javax.swing.JComboBox;
 import javax.swing.JMenuItem;
 import javax.swing.text.StyledEditorKit;
 
-import org.warn.sinhala.texteditor.ui.Container;
+import org.warn.sinhalatext.ui.Container;
 
 
 

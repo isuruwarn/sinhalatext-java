@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.ui;
+package org.warn.sinhalatext.ui;
 
 import java.awt.Dimension;
 import java.awt.Font;
@@ -20,21 +20,21 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledEditorKit;
 
-import org.warn.sinhala.texteditor.controller.EditActionListener;
-import org.warn.sinhala.texteditor.controller.EditorKeyListener;
-import org.warn.sinhala.texteditor.controller.EditorUndoableEditListener;
-import org.warn.sinhala.texteditor.controller.FileActionListener;
-import org.warn.sinhala.texteditor.controller.FontSizeActionListener;
-import org.warn.sinhala.texteditor.controller.HelpActionListener;
-import org.warn.sinhala.texteditor.controller.SinhalaButtonActionListener;
-import org.warn.sinhala.texteditor.controller.UndoActionListener;
-import org.warn.sinhala.texteditor.model.FileHandler;
-import org.warn.sinhala.texteditor.model.Symbol;
-import org.warn.sinhala.texteditor.ui.components.CommandButton;
-import org.warn.sinhala.texteditor.ui.components.MenuBarBuilder;
-import org.warn.sinhala.texteditor.ui.components.SinhalaButton;
-import org.warn.sinhala.texteditor.ui.components.ToolBarBuilder;
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.controller.EditActionListener;
+import org.warn.sinhalatext.controller.EditorKeyListener;
+import org.warn.sinhalatext.controller.EditorUndoableEditListener;
+import org.warn.sinhalatext.controller.FileActionListener;
+import org.warn.sinhalatext.controller.FontSizeActionListener;
+import org.warn.sinhalatext.controller.HelpActionListener;
+import org.warn.sinhalatext.controller.SinhalaButtonActionListener;
+import org.warn.sinhalatext.controller.UndoActionListener;
+import org.warn.sinhalatext.model.FileHandler;
+import org.warn.sinhalatext.model.Symbol;
+import org.warn.sinhalatext.ui.components.CommandButton;
+import org.warn.sinhalatext.ui.components.MenuBarBuilder;
+import org.warn.sinhalatext.ui.components.SinhalaButton;
+import org.warn.sinhalatext.ui.components.ToolBarBuilder;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

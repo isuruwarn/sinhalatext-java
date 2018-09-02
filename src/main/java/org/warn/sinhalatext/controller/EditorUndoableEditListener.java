@@ -1,10 +1,10 @@
-package org.warn.sinhala.texteditor.controller;
+package org.warn.sinhalatext.controller;
 
 import javax.swing.event.UndoableEditEvent;
 import javax.swing.event.UndoableEditListener;
 import javax.swing.undo.UndoManager;
 
-import org.warn.sinhala.texteditor.ui.components.CommandButton;
+import org.warn.sinhalatext.ui.components.CommandButton;
 
 
 

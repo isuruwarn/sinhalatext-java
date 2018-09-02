@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.ui.components;
+package org.warn.sinhalatext.ui.components;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 
-import org.warn.sinhala.texteditor.util.GlobalConstants;
+import org.warn.sinhalatext.util.GlobalConstants;
 
 
 

@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.exceptions;
+package org.warn.sinhalatext.exceptions;
 
 
 @SuppressWarnings("serial")

@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.util;
+package org.warn.sinhalatext.util;
 
 
 public class GlobalConstants {

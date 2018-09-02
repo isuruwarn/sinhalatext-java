@@ -1,4 +1,4 @@
-package org.warn.sinhala.texteditor.ui.components;
+package org.warn.sinhalatext.ui.components;
 
 import javax.swing.JButton;
 import javax.swing.JToolBar;
